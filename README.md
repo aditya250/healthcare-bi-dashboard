@@ -8,7 +8,7 @@ This Power BI dashboard visualizes key healthcare metrics from a synthetic patie
 - Billing insights (Avg. Billing, Avg. Length of Stay)
 
 ## Screenshots
-![Dashboard Overview](path_to_your_image.png)
+![Dashboard Overview](healthcare.png)
 
 ## Tools Used
 - Power BI
